@@ -29,7 +29,7 @@ section a{
  </head>
  <body>   
  <section>
-        <a href="front.php"><h3>Printo</h3></a>
+        <a href="index.php"><h3>Printo</h3></a>
         <ul>
             <a href="signup.php"><li>Signup</li></a>
             <a href="login.php"><li>Login</li></a>
